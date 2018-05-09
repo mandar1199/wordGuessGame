@@ -5,14 +5,20 @@ body {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+    font-family: 'Pangolin', cursive;
+
 }
-.navbar {
-    background-color: red;
-    padding: 0;
+nav {
+    height: 42px;
+    margin-bottom: 46px;
 }
 .navbar-h1 {
     font-weight: bolder;
     font-size: 50px;
-    margin-top: 0;
-    padding: 0;   
+    margin-left: 40px;   
+}
+nav a {
+    text-decoration: none;
+    color: red;
+
 }
