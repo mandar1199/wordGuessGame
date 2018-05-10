@@ -15,10 +15,12 @@ nav {
 .navbar-h1 {
     font-weight: bolder;
     font-size: 50px;
-    margin-left: 40px;   
+    margin-left: -20px; 
 }
 nav a {
     text-decoration: none;
     color: red;
-
+}
+.container {
+    margin-left: 140px;
 }
