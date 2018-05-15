@@ -31,7 +31,7 @@ function getItem() {
     }
     
 
-    document.getElementById('blankSpaces').innerHTML = blankSpaces
+    document.getElementById('blankSpaces').innerHTML = blankSpaces;
 }
   
   //This code captures the keypress and prints it out on the screen
